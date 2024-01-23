@@ -5,7 +5,7 @@ const initialState = [
         id:'1',title:'exercize ',content:'every day'
     },
     {
-        id:'2',title:'drink water',content:'6 glass'
+        id:'2',title:'drink water',content:'8 glass'
     }
 ]
 
