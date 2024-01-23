@@ -2,10 +2,10 @@ import {createSlice} from '@reduxjs/toolkit'
 
 const initialState = [
     {
-        id:'1',title:'to do duty',content:'every day'
+        id:'1',title:'exercize ',content:'every day'
     },
     {
-        id:'2',title:'to be workalchoholic',content:'6 days in a week'
+        id:'2',title:'drink water',content:'6 glass'
     }
 ]
 
